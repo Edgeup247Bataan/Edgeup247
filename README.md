@@ -105,11 +105,12 @@ updated to. Your style, rules, inbox and outbox are untouched.
 ## Credits
 
 The editing engine is [Herk Edit Kit](https://github.com/nateherkai/herk-edit-kit) by Nate Herk
-(MIT), built on [HyperFrames](https://github.com/heygen-com/hyperframes) and
-[GSAP](https://gsap.com/). Setup downloads it from its own repository; it is not copied here.
-Any brand assets inside that kit belong to their owners and are not licensed for reuse.
+(MIT), built on [HyperFrames](https://github.com/heygen-com/hyperframes) (Apache-2.0) and
+[GSAP](https://gsap.com/) (GSAP Standard License). Setup downloads it from its own repository; it
+is not copied here. The AI Automation Society brand assets inside that kit belong to their owner
+and are not licensed for reuse.
 
-Not affiliated with Anthropic, Nate Herk, or HeyGen.
+free247editor is not affiliated with Nate Herk, HeyGen, or any of the AI agent makers.
 
 ## License
 
