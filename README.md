@@ -114,6 +114,8 @@ and are not licensed for reuse.
 
 EdgeupEditor247 by Edgeup247.
 
+Setup is based on [free247editor](https://github.com/riecodes/free247editor) by riecodes, MIT.
+
 EdgeupEditor247 is not affiliated with Nate Herk, HeyGen, or any of the AI agent makers.
 
 ## License
