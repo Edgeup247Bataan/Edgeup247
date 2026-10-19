@@ -18,8 +18,7 @@ Set up my AI video editor for me.
 
 1. Check that Git is installed. If it is missing, ask me once, then install it.
 2. Clone https://github.com/Edgeup247Bataan/my-ai-editor.git into my Documents folder (my-ai-editor).
-   If it already exists there, use that copy instead of cloning again. If GitHub asks me to sign
-   in, help me sign in with the GitHub account I gave when I bought the editor.
+   If it already exists there, use that copy instead of cloning again.
 3. Go into that folder, read AGENTS.md and the my-ai-editor skill, and follow its "start" steps:
    run node setup.mjs, install anything it reports missing after asking me, and help me choose free
    transcription (a Groq key I paste into .env myself, never in this chat, or local faster-whisper).
