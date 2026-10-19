@@ -1,4 +1,6 @@
-# Edgeup247
+# EdgeupEditor247
+
+By Edgeup247.
 
 A personal AI video editor that runs inside Claude Code.
 
@@ -110,13 +112,13 @@ The editing engine is [Herk Edit Kit](https://github.com/nateherkai/herk-edit-ki
 is not copied here. The AI Automation Society brand assets inside that kit belong to their owner
 and are not licensed for reuse.
 
-Edgeup247 builds on [free247editor](https://github.com/riecodes/free247editor) by riecodes (MIT).
+EdgeupEditor247 by Edgeup247.
 
-Edgeup247 is not affiliated with riecodes, Nate Herk, HeyGen, or any of the AI agent makers.
+EdgeupEditor247 is not affiliated with Nate Herk, HeyGen, or any of the AI agent makers.
 
 ## License
 
 The source is visible on GitHub, but it is not open source. Only buyers may use it, for their
 own videos (commercial videos included). Sharing, reselling or republishing the editor is not
-allowed. See [LICENSE](LICENSE). Parts based on free247editor by riecodes, the Herk Edit Kit engine,
-HyperFrames and GSAP keep their own licenses.
+allowed. See [LICENSE](LICENSE). The Herk Edit Kit engine, HyperFrames and GSAP keep their own
+licenses.
