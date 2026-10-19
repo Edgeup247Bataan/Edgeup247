@@ -17,7 +17,7 @@ copy this whole prompt, paste it and press Enter:
 Set up my AI video editor for me.
 
 1. Check that Git is installed. If it is missing, ask me once, then install it.
-2. Clone https://github.com/Edgeup247Bataan/my-ai-editor.git into my Documents folder (my-ai-editor).
+2. Clone https://github.com/Edgeup247Bataan/Edgeup247.git into my Documents folder (Edgeup247).
    If it already exists there, use that copy instead of cloning again.
 3. Go into that folder, read AGENTS.md and the my-ai-editor skill, and follow its "start" steps:
    run node setup.mjs, install anything it reports missing after asking me, and help me choose free
@@ -29,9 +29,9 @@ Set up my AI video editor for me.
 
 ### Step by step
 
-1. **Get it.** `git clone https://github.com/Edgeup247Bataan/my-ai-editor.git`, or use
+1. **Get it.** `git clone https://github.com/Edgeup247Bataan/Edgeup247.git`, or use
    *Code > Download ZIP* on GitHub and unzip it.
-2. **Open the folder in Claude Code.** In a terminal: `cd my-ai-editor` then `claude`.
+2. **Open the folder in Claude Code.** In a terminal: `cd Edgeup247` then `claude`.
    Or in the Claude desktop app, open the Code tab and choose the folder.
 3. **Type `start`.** Claude checks your computer, installs what is missing (with your OK), renders
    a test video, and asks a few questions about your style.
@@ -75,7 +75,7 @@ Claude will never use a paid service without asking.
 ## Folders
 
 ```
-my-ai-editor/
+Edgeup247/
   AGENTS.md / CLAUDE.md          points Claude to the skills below
   .agents/skills/my-ai-editor/   how Claude runs your editor (SKILL.md) and the reference-reel
                                  technique library (references/reel-references.md)
