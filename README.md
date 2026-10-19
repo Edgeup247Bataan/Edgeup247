@@ -1,4 +1,4 @@
-# my-ai-editor
+# free247editor
 
 A personal AI video editor that runs inside Claude Code.
 
