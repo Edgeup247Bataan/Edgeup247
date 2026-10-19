@@ -1,0 +1,36 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Personal files (stay on your computer). Templates: my-style.example.md, my-rules.example.md
+my-style.md
+my-rules.md
+
+# Footage and renders
+inbox/*
+outbox/*
+my-sounds/*
+!inbox/.gitkeep
+!outbox/.gitkeep
+!my-sounds/.gitkeep
+*.mp4
+*.MP4
+*.mov
+*.MOV
+
+# Backups made while editing files
+*.bak
+*.bak-*
+
+# Editing engine and dependencies (installed by setup.mjs)
+kit/
+node_modules/
+__pycache__/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# OS files
+.DS_Store
+Thumbs.db
